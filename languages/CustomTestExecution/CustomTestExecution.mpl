@@ -14,6 +14,9 @@
         </modelRoot>
       </models>
       <external-templates />
+      <dependencies>
+        <dependency reexport="false">a3a7aa68-b615-4061-86b1-3fc85dc8c29b(CustomTestExecution)</dependency>
+      </dependencies>
       <usedLanguages>
         <usedLanguage>a3a7aa68-b615-4061-86b1-3fc85dc8c29b(CustomTestExecution)</usedLanguage>
         <usedLanguage>b401a680-8325-4110-8fd3-84331ff25bef(jetbrains.mps.lang.generator)</usedLanguage>
