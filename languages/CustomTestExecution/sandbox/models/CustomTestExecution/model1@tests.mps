@@ -6,7 +6,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <root type="zvkr.MyTestCase" typeId="zvkr.8012621281213649809" id="4564772608902162095" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="dasistmeintestname_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_T_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test_Test" />
-    <property name="testCaseName" nameId="zvkr.4564772608903440870" value="check if is dividable" />
+    <property name="testCaseName" nameId="zvkr.4564772608903440870" value="check if a number is dividable" />
     <node role="testMethods" roleId="zvkr.4564772608901879174" type="zvkr.MyTestMethod" typeId="zvkr.8012621281213667263" id="4564772608902162147" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="sixIsDividableByThree" />
       <property name="dividend" nameId="zvkr.4564772608901885260" value="6" />
